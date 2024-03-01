@@ -11,7 +11,6 @@
 </a>
 
 <br />
-<br />
 
 Hi there, I'm **Kullai Metikala**, a **Security Researcher**  🚀I'm a fresher [Have more experience in bug bounty] and actively seeking for Security Analyst oppurtunities.
 
@@ -28,10 +27,6 @@ Hi there, I'm **Kullai Metikala**, a **Security Researcher**  🚀I'm a fresher 
 
 
 - 📫 Please email via metikalakullai.gtl@gmail.com to reach me;
-
-
-**Languages and Tools:**  
-
 
 
 [![Kullai Metikala's github stats](https://github-readme-stats.vercel.app/api?username=kullaisec)](https://github.com/kullaisec/github-readme-stats).

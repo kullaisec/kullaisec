@@ -10,7 +10,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br />
+</br>
 
 Hi there, I'm **Kullai Metikala**, a **Security Researcher**  🚀I'm a fresher [Have more experience in bug bounty] and actively seeking for Security Analyst oppurtunities.
 
